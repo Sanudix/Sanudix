@@ -11,6 +11,6 @@
 
 ## Статистика
 ![Sanudix's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanudix&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanudix)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanudix's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanudix)](https://github.com/anuraghazra/github-readme-stats)
 ## Контакты
 - Telegram: @bazilozavrr
