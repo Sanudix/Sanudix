@@ -3,15 +3,14 @@
 
 - 👨‍💻 Использую современный подход для построения UI **(Jetpack Compose)**
 - 📱 Есть опыт создания приложений на основе макетов из **Figma**
-- 📗 Умею раюотать с **JSON, MVVM / MVI / MVP / Clean Architecture, Coroutines, Firebase, Git**
+- 📗 Умею работать с: **JSON, MVVM / MVI / MVP / Clean Architecture, Coroutines, Firebase, Git**
 - ⚙️ Владею языками: **Kotlin / Java / C / C++ / C# / Python**
 - 📃 В настоящее время изучаю **Dagger2 + Hilt / Room / Retrofit**
 - 👨‍🎓 Обучаюсь по специальности "Информационные системы и технологии" на 4 курсе в университете БГТУ Военмех (Санкт-Петербург)
 🎉✨⚙️📱💾📗📝💼
-<h3 align="center">A passionate frontend developer from India</h3>
- - 👨‍💻 **Kotlin / Java / C / C++ / C# / Python**
- - ⚙️ Владею языками: **Kotlin / Java / C / C++ / C# / Python**
 
+
+![Sanudix's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanudix&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
