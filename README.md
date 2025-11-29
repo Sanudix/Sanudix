@@ -9,8 +9,5 @@
 - 👨‍🎓 Обучаюсь по специальности "Информационные системы и технологии" на 4 курсе в университете БГТУ Военмех (Санкт-Петербург)
 🎉✨⚙️📱💾📗📝💼
 
-## Статистика
-![Sanudix's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanudix&show_icons=true&theme=radical)
-[![Sanudix's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanudix)](https://github.com/anuraghazra/github-readme-stats)
 ## Контакты
 - Telegram: @bazilozavrr
