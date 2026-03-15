@@ -1,12 +1,6 @@
 ## Привет, я Никита! 👋
-Являюсь Android-разработчиком. Основной язык - **Kotlin**.
-
-- 👨‍💻 Использую современный подход для построения UI **(Jetpack Compose)**
-- 📱 Есть опыт создания приложений на основе макетов из **Figma**
-- 📗 Умею работать с: **JSON, MVVM / MVI / MVP / Clean Architecture, Coroutines, Firebase, Git, Room, Retrofit, Koin**
-- ⚙️ Владею языками: **Kotlin / Java / C / C++ / C# / Python**
-- 👨‍🎓 Студент 4 курса "Информационные системы и технологии" в университете БГТУ Военмех (Санкт-Петербург)
+Являюсь AQA Java.
 
 ## Контакты
-- Telegram: @bazilozavrr
+- Telegram: @ntbolotov
 - Email: ntbolotnikov@gmail.com
